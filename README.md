@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://github.com/matiaspozzi/ReactJs">
+  <a href="https://github.com/matiaspozzi/Proytecto-final-ReactJs#readme">
     </a>
   <h3 align="center">E-Commerce-React-App</h3>
 
@@ -52,7 +52,7 @@ En relación a los ítems exhibidos en este proyecto, decir que los mismos se en
 ### Inicio o Home
 Esta es la primera página a la que el usuario accede cuando ingresa al sitio. La misma muestra un listado de todos los productos disponibles. En la parte superior se encuentra el menú y dentro de éste, en el costado derecho, se ubica un desplegable, de nombre: "Categories", con las diferentes categorías de productos.  
 <br/>
-![](./public/img/screenshots/Home.png)
+![](img)
 
 
 
@@ -67,7 +67,7 @@ Muestra el detalle del producto que ha sido seleccionado previamente por el usua
 Muestra la información del producto o productos que el usuario ha añadido para la compra, junto con su cantidad, subtotal y total correspondiente. En caso de desearlo, el usuario puede remover los ítems que desee de forma individual (botón en forma de equis (x) que aparece junto a cada producto), o remover la totalidad de los mismos mediante el botón rojo que aparece en la parte superior derecha. Por último, y para seguir con el proceso de compra, en la parte inferior derecha se exhibe el botón que lleva al checkout.
 <br/>
 <br/>
-![](./public/img/screenshots/Cart.png)
+![](img)
 
 
 
@@ -76,13 +76,13 @@ Muestra el formulario que ha de completarse para finalizar el proceso de compra.
 
 <br/>
 
-![](./public/img/screenshots/Checkout.png)
+![](img)
 
 
 ### Página de compra exitosa
 Muestra la confirmación de la compra realizada por el usuario. Además, provee al usuario con un número de orden de compra único.
 
-![](./public/img/screenshots/OrderConfirmation.png)
+![](img)
 
 
 # Tecnologías aplicadas
@@ -130,16 +130,16 @@ npm -v
 ### Instalación
 Primero vas a necesitar descargar y/o clonar el repositorio, para ello, seguí los pasos que se detallan a continuación:
 
-* Clone _'https://github.com/matiaspozzi/ReactJs'_ repository from GitHub
+* Clone _'https://github.com/matiaspozzi/Proytecto-final-ReactJs#readme'_ repository from GitHub
 
   ```bash
-  git clone https://github.com/matiaspozzi/ReactJs
+  git clone https://github.com/matiaspozzi/Proytecto-final-ReactJs#readme
   ```
 
    _O USANDO SSH_
 
   ```bash
-  git clone https://github.com/matiaspozzi/ReactJs
+  git clone https://github.com/matiaspozzi/Proytecto-final-ReactJs#readme
   ```
 
 * Instalar las dependencias<br/>
