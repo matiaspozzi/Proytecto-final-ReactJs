@@ -52,7 +52,7 @@ En relación a los ítems exhibidos en este proyecto, decir que los mismos se en
 ### Inicio o Home
 Esta es la primera página a la que el usuario accede cuando ingresa al sitio. La misma muestra un listado de todos los productos disponibles. En la parte superior se encuentra el menú y dentro de éste, en el costado derecho, se ubica un desplegable, de nombre: "Categories", con las diferentes categorías de productos.  
 <br/>
-![](img)
+![](./public/imgDocu/inicio.png)
 
 
 
@@ -60,14 +60,14 @@ Esta es la primera página a la que el usuario accede cuando ingresa al sitio. L
 Muestra el detalle del producto que ha sido seleccionado previamente por el usuario, ya sea desde el Home o desde alguna de las categorías. A través de esta vista el usuario accede a una información más detallada del producto, como puede ser: nombre, descripción, precio, etc. A su vez posibilita que el usuario pueda agregar el ítem al carrito de compras, seleccionando la cantidad deseada y luego clickeando el botón correspondiente. <br/><br/>**NOTA IMPORTANTE: Si el producto visualizado por el usuario hubiera sido previamente agregado al carrito, en el apartado de cantidad de esta vista se va a mostrar la última cantidad selectada, pudiendo la misma ser modificada.**
 <br/>
 
-![](./public/img/screenshots/Detail.png)
+![](./public/imgDocu/detalle.png)
 
 
 ### Página carrito de compras
 Muestra la información del producto o productos que el usuario ha añadido para la compra, junto con su cantidad, subtotal y total correspondiente. En caso de desearlo, el usuario puede remover los ítems que desee de forma individual (botón en forma de equis (x) que aparece junto a cada producto), o remover la totalidad de los mismos mediante el botón rojo que aparece en la parte superior derecha. Por último, y para seguir con el proceso de compra, en la parte inferior derecha se exhibe el botón que lleva al checkout.
 <br/>
 <br/>
-![](img)
+![](./public/imgDocu/carrito.pn)
 
 
 
@@ -76,13 +76,13 @@ Muestra el formulario que ha de completarse para finalizar el proceso de compra.
 
 <br/>
 
-![](img)
+![](./public/imgDocu/formulario.png)
 
 
 ### Página de compra exitosa
 Muestra la confirmación de la compra realizada por el usuario. Además, provee al usuario con un número de orden de compra único.
 
-![](img)
+![](./public/imgDocu/confirmacion.png)
 
 
 # Tecnologías aplicadas

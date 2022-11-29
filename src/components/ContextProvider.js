@@ -1,6 +1,6 @@
-import { createContext, useState, useContext } from "react"
+import { createContext, useState } from "react"
 export const contexto = createContext()
-const { Provider } = contexto
+
 
 
 

@@ -3,9 +3,8 @@ import React from "react";
 import ItemList from "./ItemList";
 import { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
-import { getProducts, getProductsByCategoryId } from "../Categorys";
 import { db } from "../../firebase";
-import { collection, documentId, getDocs, query, where } from "firebase/firestore";
+import { collection, getDocs, query, where } from "firebase/firestore";
 
 
 

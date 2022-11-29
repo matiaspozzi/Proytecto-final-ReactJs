@@ -10,7 +10,7 @@ function Objets({ title, img, price, id }) {
 
       <Card.Body>
         <Card.Title>{title} </Card.Title>
-        <Card.Img className="tamanoImg" src={img} alt={title} />
+        <Card.Img src={img} alt={title} />
         <Card.Text>
           ${price}
         </Card.Text>
