@@ -119,3 +119,12 @@ a.continue {
 .swal2-title {
     font-size: 1em;
 }
+
+.confirm-btn{
+   border-color: black;
+   background-color: blue;
+   color: white;
+   border-radius: 70px;
+   margin-top: 10px;
+}
+

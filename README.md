@@ -8,7 +8,7 @@
      E-commerce con las funcionalidades basicas, sumar producto al carrito, elegir la cantidad del producto, formulario de validacion de compra etc..
     <br />
     <br />
-    <a href="">Ver site</a>
+    <a href="https://proytecto-final-react-js.vercel.app/">Link del sitio</a>
   </p>
 </div>
 <br />

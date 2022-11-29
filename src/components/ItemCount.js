@@ -15,9 +15,7 @@ const ItemCount = ({onAdd}) => {
             console.log("tienes que seleccionar al menos 1 producto")
         }
     }
-    const confirmarCarrito = (e) => {
-        console.log(e)
-    }
+  
     
     return (
     <div>
@@ -34,7 +32,7 @@ const ItemCount = ({onAdd}) => {
         
         <button className='confirm-btn' onClick={() => onAdd(count)}>Agregar al Carrito</button>
     
-
+        
     </div>
 
     
