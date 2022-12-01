@@ -6,9 +6,6 @@ import { BrowserRouter } from "react-router-dom"
 import CustomProvider from './components/ContextProvider';
 
 
-import { app, db } from "./firebase"
-
-
 
 export const contexto = createContext()
 

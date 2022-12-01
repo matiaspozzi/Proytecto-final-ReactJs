@@ -67,7 +67,7 @@ Muestra el detalle del producto que ha sido seleccionado previamente por el usua
 Muestra la información del producto o productos que el usuario ha añadido para la compra, junto con su cantidad, subtotal y total correspondiente. En caso de desearlo, el usuario puede remover los ítems que desee de forma individual (botón en forma de equis (x) que aparece junto a cada producto), o remover la totalidad de los mismos mediante el botón rojo que aparece en la parte superior derecha. Por último, y para seguir con el proceso de compra, en la parte inferior derecha se exhibe el botón que lleva al checkout.
 <br/>
 <br/>
-![](./public/imgDocu/carrito.pn)
+![](./public/imgDocu/carrito.png)
 
 
 
